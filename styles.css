@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.json-key {
+  color: #6f6f6f;
+}
+.json-value {
+  margin-left: 10px;
+  font-size: 8;
+}
+
+#treeContainer p {
+  margin: 0;
+  padding: 0;
+}
